@@ -1,0 +1,1 @@
+-e "My coding goals for this year:\n1.\nPython 2.\nDevops 3.\nJava \nTechnical skills I want to learn:1\nUbuntu Linux 2.\nDSA."  
