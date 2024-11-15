@@ -1,0 +1,1 @@
+-e "My Portfolio\n------------\n\nProjects:\n\n1. Arduino Project\n   Description: A project for automating household appliances using Arduino.\n   Technologies: Arduino IDE, Sensors, C++.\n\n2. E-commerce Website\n   Description: A platform for online shopping with payment integration.\n   Technologies: HTML, CSS, JavaScript, Node.js, MongoDB." 
